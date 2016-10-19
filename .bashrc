@@ -36,3 +36,4 @@ ulimit -u 2048
 
 unset SSH_ASKPASS
 export TERM=xterm-256color
+source ~/python_env/bin/activate
